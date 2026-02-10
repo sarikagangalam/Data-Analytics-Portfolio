@@ -1,0 +1,56 @@
+Project Overview
+
+This project focuses on analyzing Amazon product sales data using SQL and Power BI.
+The goal is to clean raw data, build meaningful insights, and design an interactive dashboard that helps understand sales performance, pricing, discounts, and customer ratings.
+
+🔹 Tools & Technologies Used
+
+SQL – Data cleaning and transformation
+
+Power BI – Data modeling and dashboard creation
+
+Excel / CSV – Source dataset
+
+🔹 Key Steps Performed
+
+Cleaned raw Amazon sales data using SQL
+
+Handled missing values, incorrect data types, and duplicates
+
+Created calculated columns and measures in Power BI
+
+Designed interactive visuals using:
+
+Cards
+
+Bar charts
+
+Tables
+
+Slicers
+
+Built a user-friendly dashboard for business insights
+
+🔹 Key Insights from Dashboard
+
+Comparison between actual price vs discounted price
+
+Sales distribution by product category
+
+Impact of discount percentage on ratings
+
+Top-performing product categories
+
+Customer rating analysis
+
+🔹 Project Objective
+
+To demonstrate end-to-end data analytics skills:
+
+Data cleaning
+
+Data modeling
+
+Dashboard design
+
+Business insight generation
